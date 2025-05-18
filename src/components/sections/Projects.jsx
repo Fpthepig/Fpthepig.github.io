@@ -16,7 +16,7 @@ export const Project = () => {
     this is a project that two other of my coding partners from west-mec and i 
     made this game for fbla project and after that overtime we had put some 
     upgrades into it by impleting tailwindcss and movement on the game. this 
-    game also has . 
+    game also has keys that you close the menu and bring menu back.
   
   </p>
   <div className="flex flex-wrap gap-2 mb-4">
